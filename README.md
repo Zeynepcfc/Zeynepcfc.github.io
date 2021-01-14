@@ -2,4 +2,4 @@
 
 Web Tasarımı Ödevi,
 
-https://zeynepcfc.github.io.github.io
+https://zeynepcfc.github.io/home.htm
